@@ -17,7 +17,7 @@ import java.util.zip.ZipEntry;
  */
 public class UpdaterUpdater{
 
-    public static final String apiUrl = "https://api.github.com/repos/XDjackieXD/PackUpdate/releases/latest";
+    public static final String apiUrl = "https://api.github.com/repos/MrMakeIt/PackUpdate/releases/latest";
 
 
     public static void main(String[] args){
